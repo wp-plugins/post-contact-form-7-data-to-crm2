@@ -10,9 +10,11 @@ Post the contact form 7 data to opentaps crm2
 
 == Description ==
 
-Integrates WordPress Contact Form 7 with opentaps CRM2, your free web/mobile/social CRM.
+Integrates WordPress Contact Form 7 with opentaps CRM2 (www.opentaps.com), your free web/mobile/social CRM.
 
-This plugin posts the contact form 7 fields (first name, last name, company, phone, email, comments only) into CRM2. 
+This plugin posts the contact form 7 fields (first name, last name, company, phone, email, comments only) into CRM2.  
+A contact will be automatically created, and you will be able to access it from the web UI or the mobile app.
+Stay tuned for more enhancements -- we love wordpress and use it ourselves! 
 
 == Installation ==
 
