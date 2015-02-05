@@ -10,9 +10,9 @@ Link Contact Form 7 to opentaps crm2
 
 == Description ==
 
-Use WordPress Contact Form 7 to create contacts in opentaps CRM2 (www.opentaps.com), the free web/mobile/social CRM that helps your team work together.  http://youtu.be/6nMg15yWZyM
+Create your contacts in WordPress with Contact Form 7 and see them in opentaps CRM2 (www.opentaps.com), the free web/mobile/social CRM that helps your team work together.  http://youtu.be/6nMg15yWZyM
 
-This plugin posts the contact form 7 fields (first name, last name, company, phone, email, comments only) into CRM2.  
+This plugin posts contact form 7 fields (first name, last name, company, phone, email, comments only) into CRM2.  
 
 A contact will be automatically created, and you will be able to access it from the web UI or the mobile app.
 
